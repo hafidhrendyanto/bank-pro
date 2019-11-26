@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bank-pro/static/css/main.fdb3221f.chunk.css",
+    "main.js": "/bank-pro/static/js/main.a56d5f6c.chunk.js",
+    "main.js.map": "/bank-pro/static/js/main.a56d5f6c.chunk.js.map",
+    "runtime-main.js": "/bank-pro/static/js/runtime-main.e2f57256.js",
+    "runtime-main.js.map": "/bank-pro/static/js/runtime-main.e2f57256.js.map",
+    "static/js/2.763827be.chunk.js": "/bank-pro/static/js/2.763827be.chunk.js",
+    "static/js/2.763827be.chunk.js.map": "/bank-pro/static/js/2.763827be.chunk.js.map",
+    "index.html": "/bank-pro/index.html",
+    "precache-manifest.9422eaed6bd20157b1f7dad7e7305ced.js": "/bank-pro/precache-manifest.9422eaed6bd20157b1f7dad7e7305ced.js",
+    "service-worker.js": "/bank-pro/service-worker.js",
+    "static/css/main.fdb3221f.chunk.css.map": "/bank-pro/static/css/main.fdb3221f.chunk.css.map",
+    "static/media/potrait.png": "/bank-pro/static/media/potrait.2c13ab9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f57256.js",
+    "static/js/2.763827be.chunk.js",
+    "static/css/main.fdb3221f.chunk.css",
+    "static/js/main.a56d5f6c.chunk.js"
+  ]
+}
