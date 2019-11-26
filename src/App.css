@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Login-form {
+  flex: 20;
+  margin-top: 20vh;
+}
+
+.Input-form p {
+  padding: 0;
+  margin: 0; 
+}
+
+.Input-form input {
+  margin: 10px auto;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Link {
+  text-decoration: none;
+  color: white;
+}
+
+.Container {
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.Profile {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.5vw;
+}
+
+.Profile h1 {
+  margin: 8px 0;  
+}
+
+.Profile h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.content{
+  padding-top: 5vh;
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+}
